@@ -1,0 +1,93 @@
+#main-div{
+    height: 450px;
+    background: linear-gradient(
+54deg,rgba(74,76,179,.95) 34%,hsla(0,34%,71%,.95));
+}
+
+#navbarSupportedContent{
+    position: fixed;
+    padding: 37px;
+    top: 0px;
+    width: 100%;
+    height: 70px;
+    transition: all .5s;
+    background-color: gray;
+
+}
+
+li{
+    margin: 20px;
+    color: #fff !important;
+}
+a{
+    color: white !important;
+}
+
+img{
+    height: 366px;
+        margin: 63px;
+        margin-top: 219px;
+}
+
+.info{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 66.66667%;
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%;
+    margin-top: 70px;
+    
+
+}
+
+.my_name{
+    color: #fff;    
+    font-size: 44px;
+    font-weight: 700;
+    margin-left: 75px;
+}
+
+.my_profession{
+    color: #fff;
+    font-size: 16px;
+    margin-left: 75px;
+    font-family:Roboto Mono, monospace;
+}
+
+.contact p{
+    margin-left: 75px;
+    color: #fff;
+    font-family: Roboto Mono, monospace;
+}
+
+.links{
+    margin-left: 55px;
+    
+}
+
+.links a{
+    font-size: 24px;
+    margin: 20px;
+}
+
+.row{
+    padding-left: 61px;
+    margin-top: 106px !important;
+}
+
+
+.row .intro p{
+    margin-top: 35px;
+     font-size: 18px;
+}
+
+.cvBtn{
+    color: #fff;
+    background-color: #6d56c1;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 33px;
+        border: none;
+        width: 170px;
+        height: 55px;  
+        margin-top: 15px;      
+}
